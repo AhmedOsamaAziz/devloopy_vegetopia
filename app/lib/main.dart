@@ -4,7 +4,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// a.osama
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
